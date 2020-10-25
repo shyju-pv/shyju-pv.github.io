@@ -758,7 +758,7 @@ textarea,
   
 /* Home Job Title */
 .home-job-title {
-	margin: 0 auto; white-space: normal; box-sizing: border-box; font-size: calc(10px + .14vw); font-weight: 700; position: absolute; bottom: 106%; color: #55deec; text-align: right; text-transform: uppercase; letter-spacing: 4px; text-shadow: 0 0 8px rgba(0, 0, 0, 0.44);
+	margin: 0 auto; white-space: normal; box-sizing: border-box; font-size: calc(10px + .14vw); font-weight: 700; font-size: 18px; position: absolute; bottom: 106%; color: #55deec; text-align: right; text-transform: uppercase; letter-spacing: 4px; text-shadow: 0 0 8px rgba(0, 0, 0, 0.44);
 	}
 .no-image-logo .home-job-title { 
 	text-align: center; 
